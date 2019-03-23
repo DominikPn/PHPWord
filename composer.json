@@ -88,11 +88,6 @@
             "PhpOffice\\PhpWord\\": "src/PhpWord"
         }
     },
-    "extra": {
-        "branch-alias": {
-            "dev-develop": "0.17-dev"
-        }
-    },
     "minimum-stability":"dev",
     "prefer-stable": true
 }
